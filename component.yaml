@@ -1,6 +1,0 @@
-schemaVersion: 1.0 
-endpoints:
-- name: tnpsc-learn-easy
-  service:
-     port: 5000
-  type: REST
